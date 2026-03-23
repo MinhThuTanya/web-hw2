@@ -1,8 +1,8 @@
-/* style.css – оранжевая цветовая гамма */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background-color: #fff5e6;  /* светло-оранжевый фон */
+    background-color: #fff5e6;  
     color: #4a2e1f;
     margin: 0;
     padding: 20px;
